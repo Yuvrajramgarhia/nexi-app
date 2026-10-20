@@ -1,0 +1,15 @@
+# Added for GitHub upload
+node_modules/
+venv/
+.venv/
+__pycache__/
+*.pyc
+dist/
+build/
+.next/
+coverage/
+.DS_Store
+*.log
+.env
+.env.*
+!.env.example
